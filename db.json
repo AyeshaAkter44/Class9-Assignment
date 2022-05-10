@@ -1,0 +1,152 @@
+
+{
+
+    "Students" :[
+        {
+            "Name" :"Farhana Haque",
+            "Roll" :  1,
+            "Class": 5,
+            "Age" :11
+        },
+        {
+            "Name" :"Farzana Islam",
+            "Roll" :  2,
+            "Class": 5,
+            "Age" :12
+
+        },
+        {
+            "Name" :"Farooq ",
+            "Roll" :  3,
+            "Class": 5,
+            "Age" :13
+        },
+        {
+            "Name" :"Faisal Ahmed",
+            "Roll" :  4,
+            "Class": 5,
+            "Age" :11
+        },
+        {
+            "Name" :"Farhan Mahmud",
+            "Roll" :  5,
+            "Class": 5,
+            "Age" :12
+        },
+        {
+            "Name" :"Farin ",
+            "Roll" :  6,
+            "Class": 5,
+            "Age" :11
+        },
+        {
+            "Name" :"Fauzia Haque",
+            "Roll" :  7,
+            "Class": 5,
+            "Age" :12
+        },
+        {
+            "Name" :"Ferdous Islam",
+            "Roll" :  8,
+            "Class": 5,
+            "Age" :10
+        }
+        ,{
+            "Name" :"Farabi ",
+            "Roll" :  9,
+            "Class": 5,
+            "Age" :12
+        },
+        {
+            "Name" :"Faizur Rahman",
+            "Roll" :  10,
+            "Class": 5,
+            "Age" :11
+        }
+
+    ] ,
+
+
+    "Teachers" :[
+        {
+            "Name" : "Delwar hossain",
+            "Age" : 32,
+            "Subject" :"Physics",
+            "Contact" : "01845633290"
+
+        },
+        {
+            "Name" : "Imran hossain",
+            "Age" : 28,
+            "Subject" :"English",
+            "Contact" : "01845633299"
+            
+
+        },
+        {
+            "Name" : "Abdus Salam",
+            "Age" : 40,
+            "Subject" :"Bangla",
+            "Contact" : "01845633298"
+            
+
+        },
+        {
+            "Name" : "Biplob Mahbub",
+            "Age" : 38,
+            "Subject" :"Mathematics",
+            "Contact" : "01845633294"
+            
+
+        },
+        {
+            "Name" : "Sakhawat Hossen",
+            "Age" : 45,
+            "Subject" :"Accounting",
+            "Contact" : "01845633234"
+            
+
+        },
+        {
+            "Name" : "Mohammad hasibul islam",
+            "Age" : 33,
+            "Subject" :"Chemistry",
+            "Contact" : "01845633297"
+            
+
+        },
+        {
+            "Name" : "Sarwer Choudhury",
+            "Age" : 50,
+            "Subject" :"Management",
+            "Contact" : "01845633295"
+            
+
+        },
+        {
+            "Name" : "Rokeya Begum",
+            "Age" : 45,
+            "Subject" :"Islamic Studies",
+            "Contact" : "01745633290"
+            
+
+        },
+        {
+            "Name" : "Tohura Tabassub",
+            "Age" : 35,
+            "Subject" :"Biology",
+            "Contact" : "01845633296"
+            
+
+        },
+        {
+            "Name" : "Fatema Tuz Zahra",
+            "Age" : 30,
+            "Subject" :"ICT",
+            "Contact" : "01945633295"
+            
+
+        }
+    ]
+
+}
